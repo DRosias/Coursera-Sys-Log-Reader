@@ -1,2 +1,2 @@
-# pre-git-dump
-a dumping grounds for projects before I learned github
+# pre-git
+a dumping ground for this project from before I learned github
